@@ -17,8 +17,8 @@ void main() {
 	// Int To String
 	var g,h,i;
 	g = 40;
-	h = "0.1";
+	h = "1";
 	i = g.toString() + h;
-	print("$g + $h = $i");  //400.1
+	print("$g + $h = $i");  //401
 
 }
